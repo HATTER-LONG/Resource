@@ -1,8 +1,11 @@
-#资源文件
+# 资源文件仓库
 
-## images
+## jsdeliver CDN 加速
 
-图床资源管理：
+1. URL 前缀为：`https://fastly.jsdelivr.net/gh/HATTER-LONG/Resource@main/`。
+   - 例如访问图片：`https://fastly.jsdelivr.net/gh/HATTER-LONG/Resource@main/images/xxx.png`。
+
+## images 图床资源管理
 
 ### [picgo 使用](https://picgo.github.io/PicGo-Core-Doc/zh/guide/)
 
@@ -13,8 +16,3 @@
 4. 插件管理：
    - 安装：`picgo install plugin`。
    - 卸载：`picgo uninstall plugin`.
-
-## jsdeliver CDN 加速
-
-1. URL 前缀为：`https://fastly.jsdelivr.net/gh/HATTER-LONG/Resource@main/`。
-   - 例如访问图片：`https://fastly.jsdelivr.net/gh/HATTER-LONG/Resource@main/images/xxx.png`。
